@@ -2,7 +2,7 @@
 
 ## Google Colab: https://colab.research.google.com/drive/12XaSq6D3AzsAeo6IYxWJU5zd0Edky17u
 
-## Dataset Origin: https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
+## Dataset Origin: http://download.tensorflow.org/example_images/flower_photos.tgz
 
 ## Assignment description:
 
